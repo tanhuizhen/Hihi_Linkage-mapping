@@ -3,4 +3,4 @@ Tan, H. Z., Scherer, P., Stuart, K. C., Bailey, S., Lee, K. D., Brekke, P., Ewen
 
 Folder names correspond to the sections in 'Materials and methods'.
 
-Unless otherwise stated, codes were ran on New Zealand eScience Infrastructure (NeSI).
+Unless otherwise stated, codes were ran via Jupyter on New Zealand eScience Infrastructure (NeSI).
