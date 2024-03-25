@@ -3,6 +3,6 @@ Tan, H. Z., Scherer, P., Stuart, K. C., Bailey, S., Lee, K. D., Brekke, P., Ewen
 
 Folder names correspond to the sections in 'Materials and methods'.
 
-Linkage map results of the map positions of each marker is in folder "0_Hihi_linkage_map_results".
+Linkage map results showing the map positions of each marker is in folder '0_Hihi_linkage_map_results'.
 
 Unless otherwise stated, codes were ran via Jupyter on New Zealand eScience Infrastructure (NeSI).
